@@ -77,6 +77,9 @@ article h3{
 article ul{
   padding-left: 20px;
 }
+article ul li::marker{
+   color: #333333;
+}
 
 article .blue li{
   color:#0C51A7;
